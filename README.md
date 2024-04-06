@@ -4,13 +4,13 @@ Aprendizado por projeto integrador 4º
 <span id="topo">
 
 <p align="center">
-    <a href="">Projeto</a>  |
-    <a href="">Backlog do Produto</a>  |
-    <a href="">Entrega das Sprints</a>  |
-    <a href="">Design</a>   |
-    <a href="">Tecnologias</a>  |
-    <a href="">Linguagens</a>  |
-    <a href="">Equipe</a>
+    <a href="#projeto">Projeto</a>  |
+    <a href="#backlog">Backlog do Produto</a>  |
+    <a href="#entregas">Entrega das Sprints</a>  |
+    <a href="#design">Design</a>   |
+    <a href="#tecnologias">Tecnologias</a>  |
+    <a href="#linguagens">Linguagens</a>  |
+    <a href="#equipe">Equipe</a>
 </p>
 
 <br>
@@ -25,7 +25,7 @@ Descricao do projeto (objetivo + planejamento).
 
 <span id="backlog">
 
-## :memo: Product Backlog
+## :card_index_dividers: Product Backlog
 
 Table com os user stories.
 
@@ -33,7 +33,7 @@ Table com os user stories.
 
 <span id="entregas">
 
-## :memo: Entrega das Sprints
+## :package: Entrega das Sprints
 
 Table com as entregas.
 
@@ -41,7 +41,7 @@ Table com as entregas.
 
 <span id="design">
 
-## :memo: Design
+## :framed_picture: Design
 
 Links de imagens do figma.
 
@@ -49,7 +49,7 @@ Links de imagens do figma.
 
 <span id="tecnologias">
 
-## :memo: Tecnologias
+## :computer: Tecnologias
 [Arte] <br>
 Imagens das tecnologias.
 
@@ -57,7 +57,7 @@ Imagens das tecnologias.
 
 <span id="linguagens">
 
-## :memo: Linguagens
+## :trophy: Linguagens
 [Arte] <br>
 Imagens das linguagens.
 
@@ -65,7 +65,7 @@ Imagens das linguagens.
 
 <span id="equipe">
 
-## :memo: Equipe
+## :wave: Equipe
 
 Tabela com fotos, nomes, funcao, e links.
 
