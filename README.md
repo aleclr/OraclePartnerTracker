@@ -19,7 +19,7 @@ Aprendizado por projeto integrador 4º
 
 ## :memo: O Projeto
 [Arte] <br>
-Descricao do projeto (objetivo + planejamento).
+A Oracle Partner Tracker é uma plataforma moderna e inteligente de gerenciamento e análise de dados, capaz de interpretar, organizar e representar os dados do sistema OPN da empresa parceira Oracle. Entre os objetivos principais do projeto, se encontram a modernização do acompanhamento das empresas parceiras Oracle, assim como a visualização de dados de forma inteligente, para facilitar a identificação de melhorias e de conclusões estratégicas.
 
 <br>
 
