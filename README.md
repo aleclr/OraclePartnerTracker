@@ -117,8 +117,24 @@ Links de imagens do figma.
 <span id="tecnologias">
 
 ## :computer: Tecnologias
-[Arte] <br>
-Imagens das tecnologias.
+![Tecnologias Utilizadas](./assets/codecats3.jpg)
+
+<details>
+    <summary>
+        Lista de tecnologias:
+    </summary>
+    <br>
+    <li>Adobe Illustrator</li>
+    <li>Github</li>
+    <li>Visual Studio Code + IntelliJ</li>
+    <li>Jira</li>
+    <li>Figma</li>
+    <li>Slack</li>
+    <li>Swagger</li>
+    <li>MySQL</li>
+    <li>Microsoft Excel</li>
+        
+</details
 
 <br>
 
