@@ -185,6 +185,48 @@ Tabela com fotos, nomes, funcao, e links.
                 <td>Developer</td>
                 <td><a href="https://github.com/aleclr" target="_blank"><img src="./assets/github.png"/></a> <a href="https://www.linkedin.com/in/alecrondel/" target="_blank"><img src="./assets/linkedin.png"/></a></td>
             </tr>
+            <tr>
+                <td><img src="" width="100" height="100" /></td>
+                <td>.</td>
+                <td>.</td>
+                <td><a href=""><img src="./assets/github.png"/></a> <a href=""><img src="./assets/linkedin.png"/></a></td>
+            </tr>
+            <tr>
+                <td><img src="" width="100" height="100" /></td>
+                <td>.</td>
+                <td>.</td>
+                <td><a href=""><img src="./assets/github.png"/></a> <a href=""><img src="./assets/linkedin.png"/></a></td>
+            </tr>
+            <tr>
+                <td><img src="" width="100" height="100" /></td>
+                <td>.</td>
+                <td>.</td>
+                <td><a href=""><img src="./assets/github.png"/></a> <a href=""><img src="./assets/linkedin.png"/></a></td>
+            </tr>
+            <tr>
+                <td><img src="" width="100" height="100" /></td>
+                <td>.</td>
+                <td>.</td>
+                <td><a href=""><img src="./assets/github.png"/></a> <a href=""><img src="./assets/linkedin.png"/></a></td>
+            </tr>
+            <tr>
+                <td><img src="" width="100" height="100" /></td>
+                <td>.</td>
+                <td>.</td>
+                <td><a href=""><img src="./assets/github.png"/></a> <a href=""><img src="./assets/linkedin.png"/></a></td>
+            </tr>
+            <tr>
+                <td><img src="" width="100" height="100" /></td>
+                <td>.</td>
+                <td>.</td>
+                <td><a href=""><img src="./assets/github.png"/></a> <a href=""><img src="./assets/linkedin.png"/></a></td>
+            </tr>
+            <tr>
+                <td><img src="" width="100" height="100" /></td>
+                <td>.</td>
+                <td>.</td>
+                <td><a href=""><img src="./assets/github.png"/></a> <a href=""><img src="./assets/linkedin.png"/></a></td>
+            </tr>
         </tbody>
     </table>
 </div>
