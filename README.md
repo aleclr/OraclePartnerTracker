@@ -140,7 +140,7 @@ Links de imagens do figma.
 
 <span id="linguagens">
 
-## :trophy: Linguagens
+## :trophy: Linguagens/Frameworks
 [Arte] <br>
 <details>
     <summary>
