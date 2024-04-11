@@ -183,7 +183,7 @@ Tabela com fotos, nomes, funcao, e links.
                 <td><img src="./assets/photos/alec.jpeg" width="100" height="100" /></td>
                 <td>Alec Lima Rondel</td>
                 <td>Developer</td>
-                <td><a href=""><img src="./assets/github.png" style="width: 10%;"/></a></td>
+                <td><a href="https://github.com/aleclr"><img src="./assets/github.png"/></a> <a href="https://www.linkedin.com/in/alecrondel/"><img src="./assets/linkedin.png"/></a></td>
             </tr>
         </tbody>
     </table>
