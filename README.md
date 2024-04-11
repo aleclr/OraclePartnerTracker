@@ -141,7 +141,8 @@ Links de imagens do figma.
 <span id="linguagens">
 
 ## :trophy: Linguagens/Frameworks
-[Arte] <br>
+![Linguagens & Frameworks](./assets/codecats4.jpg)
+
 <details>
     <summary>
         Lista de linguagens e frameworks:
@@ -166,6 +167,29 @@ Links de imagens do figma.
 ## :wave: Equipe
 
 Tabela com fotos, nomes, funcao, e links.
+
+<div align="center">
+    <table>
+        <thead>
+            <tr>
+                <th>:camera_flash:</th>
+                <th>Nome</th>
+                <th>Função</th>
+                <th>Links</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><img src="./assets/photos/alec.jpeg" width="100" height="100" /></td>
+                <td>Alec Lima Rondel</td>
+                <td>Developer</td>
+                <td><a href=""><img src="./assets/github.png" style="width: 10%;"/></a></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
 
 <br>
 
