@@ -134,7 +134,7 @@ Links de imagens do figma.
     <li>MySQL</li>
     <li>Microsoft Excel</li>
         
-</details
+</details>
 
 <br>
 
@@ -142,7 +142,22 @@ Links de imagens do figma.
 
 ## :trophy: Linguagens
 [Arte] <br>
-Imagens das linguagens.
+<details>
+    <summary>
+        Lista de linguagens e frameworks:
+    </summary>
+    <br>
+    Front-End:
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Javascript</li>
+    <li>VueJS</li>
+    <br>
+    Back-end:
+    <li>Java</li>
+    <li>Spring Boot</li>
+    <li>Hibernate</li>
+</details>
 
 <br>
 
