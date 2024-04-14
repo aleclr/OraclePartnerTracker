@@ -208,7 +208,7 @@ Links de imagens do figma.
                 <td><a href="https://github.com/LucasOliveira321"><img src="./assets/github.png"/></a> <a href="https://www.linkedin.com/in/lucas-augusto-oliveira/"><img src="./assets/linkedin.png"/></a></td>
             </tr>
             <tr>
-                <td><img src="" width="100" height="100" /></td>
+                <td><img src="./assets/photos/lukas_fernando.jpeg" width="100" height="100" /></td>
                 <td>Lukas Berto</td>
                 <td>Developer</td>
                 <td><a href="https://github.com/LukasFernando"><img src="./assets/github.png"/></a> <a href="https://www.linkedin.com/in/lukas-fernando/"><img src="./assets/linkedin.png"/></a></td>
