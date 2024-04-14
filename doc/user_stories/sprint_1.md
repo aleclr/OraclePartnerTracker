@@ -1,5 +1,16 @@
 <h1>Planejamento da Sprint 1</h1>
 
+<h2>Objetivo da Sprint</h2>
+<p>Desenvolver as funcionalidades essenciais para a visualização de informações gerais sobre o sistema e os parceiros, incluindo a importação de dados relevantes, a utilização de filtros para o dashboard e a visualização das OPN Tracks mais utilizadas.</p>
+
+<h2>Sistemas envolvidos</h2>
+<ul>
+    <li>Dashboard</li>
+    <li>Importação de Dados</li>
+</ul>
+
+<h2>Critérios de Aceitação das User Stories</h2>
+
 <details>
     <summary><h3>[US-1] Acessar um dashboard que apresente informações gerais sobre o sistema e os parceiros</h3></summary>
     
