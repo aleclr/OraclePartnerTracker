@@ -166,8 +166,6 @@ Links de imagens do figma.
 
 ## :wave: Equipe
 
-Tabela com fotos, nomes, funcao, e links.
-
 <div align="center">
     <table>
         <thead>
@@ -186,46 +184,46 @@ Tabela com fotos, nomes, funcao, e links.
                 <td><a href="https://github.com/aleclr" target="_blank"><img src="./assets/github.png"/></a> <a href="https://www.linkedin.com/in/alecrondel/" target="_blank"><img src="./assets/linkedin.png"/></a></td>
             </tr>
             <tr>
-                <td><img src="" width="100" height="100" /></td>
-                <td>.</td>
-                <td>.</td>
-                <td><a href=""><img src="./assets/github.png"/></a> <a href=""><img src="./assets/linkedin.png"/></a></td>
+                <td><img src="./assets/photos/cauana_dias.jpeg" width="100" height="100" /></td>
+                <td>Cauana Dias</td>
+                <td>Developer</td>
+                <td><a href="https://github.com/Cauana"><img src="./assets/github.png"/></a> <a href="https://www.linkedin.com/in/cauanadias/"><img src="./assets/linkedin.png"/></a></td>
+            </tr>
+            <tr>
+                <td><img src="./assets/photos/larissa_reis.jpeg" width="100" height="100" /></td>
+                <td>Larissa Reis</td>
+                <td>Scrum Master</td>
+                <td><a href="https://github.com/larissa-fernanda"><img src="./assets/github.png"/></a> <a href="https://www.linkedin.com/in/larissa-reis-693568250/"><img src="./assets/linkedin.png"/></a></td>
+            </tr>
+            <tr>
+                <td><img src="./assets/photos/laroy_prado.jpeg" width="100" height="100" /></td>
+                <td>Laroy Prado</td>
+                <td>Product Owner</td>
+                <td><a href="https://github.com/laroyprado"><img src="./assets/github.png"/></a> <a href="https://www.linkedin.com/in/laroyprado/"><img src="./assets/linkedin.png"/></a></td>
+            </tr>
+            <tr>
+                <td><img src="./assets/photos/lucas_oliveira.jpeg" width="100" height="100" /></td>
+                <td>Lucas Oliveira</td>
+                <td>Developer</td>
+                <td><a href="https://github.com/LucasOliveira321"><img src="./assets/github.png"/></a> <a href="https://www.linkedin.com/in/lucas-augusto-oliveira/"><img src="./assets/linkedin.png"/></a></td>
             </tr>
             <tr>
                 <td><img src="" width="100" height="100" /></td>
-                <td>.</td>
-                <td>.</td>
-                <td><a href=""><img src="./assets/github.png"/></a> <a href=""><img src="./assets/linkedin.png"/></a></td>
+                <td>Lukas Berto</td>
+                <td>Developer</td>
+                <td><a href="https://github.com/LukasFernando"><img src="./assets/github.png"/></a> <a href="https://www.linkedin.com/in/lukas-fernando/"><img src="./assets/linkedin.png"/></a></td>
             </tr>
             <tr>
-                <td><img src="" width="100" height="100" /></td>
-                <td>.</td>
-                <td>.</td>
-                <td><a href=""><img src="./assets/github.png"/></a> <a href=""><img src="./assets/linkedin.png"/></a></td>
+                <td><img src="./assets/photos/pablo_cunha.jpeg" width="100" height="100" /></td>
+                <td>Pablo Cunha</td>
+                <td>Developer</td>
+                <td><a href="https://github.com/pabloo-cunha"><img src="./assets/github.png"/></a> <a href="https://www.linkedin.com/in/pabloo-cunha/"><img src="./assets/linkedin.png"/></a></td>
             </tr>
             <tr>
-                <td><img src="" width="100" height="100" /></td>
-                <td>.</td>
-                <td>.</td>
-                <td><a href=""><img src="./assets/github.png"/></a> <a href=""><img src="./assets/linkedin.png"/></a></td>
-            </tr>
-            <tr>
-                <td><img src="" width="100" height="100" /></td>
-                <td>.</td>
-                <td>.</td>
-                <td><a href=""><img src="./assets/github.png"/></a> <a href=""><img src="./assets/linkedin.png"/></a></td>
-            </tr>
-            <tr>
-                <td><img src="" width="100" height="100" /></td>
-                <td>.</td>
-                <td>.</td>
-                <td><a href=""><img src="./assets/github.png"/></a> <a href=""><img src="./assets/linkedin.png"/></a></td>
-            </tr>
-            <tr>
-                <td><img src="" width="100" height="100" /></td>
-                <td>.</td>
-                <td>.</td>
-                <td><a href=""><img src="./assets/github.png"/></a> <a href=""><img src="./assets/linkedin.png"/></a></td>
+                <td><img src="./assets/photos/willian_caboski.jpeg" width="100" height="100" /></td>
+                <td>Willian Caboski</td>
+                <td>Developer</td>
+                <td><a href="https://github.com/DankoCaboski"><img src="./assets/github.png"/></a> <a href="https://www.linkedin.com/in/willian-danko-leite-caboski-5410741b4"><img src="./assets/linkedin.png"/></a></td>
             </tr>
         </tbody>
     </table>
