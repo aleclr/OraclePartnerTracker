@@ -42,21 +42,13 @@
   <tr>
     <td>5</td>
     <td>Administrador</td>
-    <td>Cadastrar novos parceiros</td>
-    <td>Acompanhar o desempenho deles</td>
-    <td>Importante</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>Administrador</td>
     <td>Visualizar quanto cada OPN Track representa do total de parceiros Oracle.</td>
     <td>Entender a popularidade das tracks.</td>
     <td>Desejável</td>
     <td>2</td>
   </tr>
   <tr>
-    <td>7</td>
+    <td>6</td>
     <td>Administrador</td>
     <td>Visualizar a porcentagem da expertise total de cada parceiro Oracle.</td>
     <td>Entender a distribuição de habilidades dentro da plataforma.</td>
