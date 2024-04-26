@@ -1,6 +1,8 @@
 [submodule "backend-spring-API4"]
 	path = backend-spring-API4
 	url = https://github.com/codecatss/backend-spring-API4
+    branch = main
 [submodule "frontend-vue-API4"]
 	path = frontend-vue-API4
 	url = https://github.com/codecatss/frontend-vue-API4
+    branch = main
